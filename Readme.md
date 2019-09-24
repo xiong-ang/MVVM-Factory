@@ -6,7 +6,7 @@
 
 ## MVVM Core Concept
 ```C#
-View.DataContext = ViewModel;
+View.DataContext = ViewModel(Model);
 ```
 
 ## MVVM Factory
